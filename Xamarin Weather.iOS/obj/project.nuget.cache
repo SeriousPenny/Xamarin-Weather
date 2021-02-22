@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b3CTKD/DPUkb0IpzBhPVkrlS7cv/wpP/SLUzs8YtETgth9sMgY5xt+BH25zQDcX6+4l8uh3fAx2F3ccbguBQnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oscar\\Desktop\\GitHub\\Prueba-Xamarin\\Xamarin Weather\\Xamarin Weather.iOS\\Xamarin Weather.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oscar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Oscar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Oscar\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Oscar\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
